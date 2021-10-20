@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shadowlegend551
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning C++ and Python
