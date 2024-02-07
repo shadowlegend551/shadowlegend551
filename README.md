@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shadowlegend551
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C++ and Python
+- 👀 I’m interested in Python, C/C++ and assembly.
+- 🌱 I’m currently learning Assembly
